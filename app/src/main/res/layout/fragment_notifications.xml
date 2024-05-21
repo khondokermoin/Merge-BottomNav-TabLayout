@@ -18,6 +18,7 @@
         app:tabIndicator="@android:color/transparent" />
 
 
+
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewPager"
         android:layout_width="0dp"
